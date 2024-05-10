@@ -4,7 +4,7 @@ Create your own Name card / Business card with PCB
 
 ![My Business Card](images/Kicad_Render_Front.png)
 ![My Business Card](images/Kicad_Render_Back.png)
-![My Business Card](images/Actual_Front.heic)
+![My Business Card](images/Actual_Front.png)
 ![My Business Card](images/Actual_Front.png)
 
 
