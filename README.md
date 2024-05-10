@@ -20,17 +20,20 @@
 ## Ordering Your PCB Business Cards
 1. **Select a Manufacturer**
    - Choose a manufacturer that suits your needs and budget, and upload your Gerber files.
-
-2. **Manufacturing Process**
+     
+2. **Choosing Thickness**
+   - Choose the right thickness you'd want, the regular 1.6mm or the thinner 0.8mm (0.8mm fits best in the wallet).
+   
+4. **Manufacturing Process**
    - Specify materials, finishes, and other custom options. Review the final product to ensure quality.
 
 
 ## Images of the Business Card
 ![Kicad Render Front V2](images/Kicad_Render_Front.png)
-*Manufactured PCB Front V1*
+*Kicad Render Front V1*
 
 ![Kicad Render Back V2](images/Kicad_Render_Back.png)
-*Manufactured PCB Back V1*
+*Kicad Render Back V1*
 
 ![Actual PCB Front V1](images/Actual_Front.png)
 *Actual Manufactured PCB Front V1*
