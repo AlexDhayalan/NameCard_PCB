@@ -5,7 +5,7 @@
    - Install KiCad 8.0 from the [KiCad website](https://www.kicad.org/download/).
 
 2. **Open PCB Editor**
-   - open the 'Business card PCB.kicad_pro' file
+   - open the `Business card PCB.kicad_pro` file
 
 3. **Edit Layers**
    - Customize the front and back layers with your contact information, logo, and any other designs.
