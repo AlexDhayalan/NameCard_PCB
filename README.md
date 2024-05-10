@@ -22,7 +22,7 @@
    - Choose a manufacturer that suits your needs and budget, and upload your Gerber files.
      
 2. **Choosing Thickness**
-   - Choose the right thickness you'd want, the regular 1.6mm or the thinner 0.8mm (0.8mm fits best in the wallet).
+   - Choose the right thickness you'd want, the regular 1.6mm or the thinner 0.8mm (0.8mm fits better in the wallet).
    
 4. **Manufacturing Process**
    - Specify materials, finishes, and other custom options. Review the final product to ensure quality.
