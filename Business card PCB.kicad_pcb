@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Business Card PCB Gerber/")
+			(outputdirectory "Business Card Gerber V2/")
 		)
 	)
 	(net 0 "")
