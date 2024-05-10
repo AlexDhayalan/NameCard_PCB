@@ -30,16 +30,18 @@
 
 ## Images of the Business Card
 ![Kicad Render Front V2](images/Kicad_Render_Front.png)
-*Kicad Render Front V1*
+*Kicad Render Front V2*
 
 ![Kicad Render Back V2](images/Kicad_Render_Back.png)
-*Kicad Render Back V1*
+*Kicad Render Back V2*
 
 ![Actual PCB Front V1](images/Actual_Front.png)
 *Actual Manufactured PCB Front V1*
 
 ![Actual PCB Back V1](images/Actual_Back.png)
 *Actual Manufactured PCB Back V1*
+
+*V2 Improvements - Rounded edges and small changes in text*
 
 ## Licensing
 
